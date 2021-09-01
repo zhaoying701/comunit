@@ -1,4 +1,5 @@
-package com.gl.community.community;
+package com.gl.community;
+
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
